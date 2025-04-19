@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "lgThermaV": {
+      "command": "<path to lg-thermav-mcp-server>",
+      "args": [
+        "stdio"
+      ],
+      "env": {
+        "MODBUS_URL": "<modbus-url>"
+      }
+    }
+  }
+}
