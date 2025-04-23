@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Go Report Card](https://goreportcard.com/report/github.com/MarinX/lg-thermav-mcp-server)](https://goreportcard.com/badge/github.com/MarinX/lg-thermav-mcp-server)
+[![Go Report Card](https://goreportcard.com/badge/github.com/MarinX/lg-thermav-mcp-server)](https://goreportcard.com/badge/github.com/MarinX/lg-thermav-mcp-server)
 [![GoDoc](https://pkg.go.dev/badge/github.com/MarinX/lg-thermav-mcp-server)](https://pkg.go.dev/github.com/MarinX/lg-thermav-mcp-server)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
